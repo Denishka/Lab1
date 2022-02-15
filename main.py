@@ -49,4 +49,4 @@ plt.plot(bins_red, hist_red, color='red', linestyle='-', linewidth=1)
 plt.plot(bins_blue, hist_blue, color='blue', linestyle='-', linewidth=1)
 #show()
 
-
+fig.savefig(json_data['image_save_path'])
