@@ -1,0 +1,7 @@
+{
+  "source_image_path": "img/test.jpg",
+  "image_save_path": "img/result.jpg",
+  "scale_XY":               [1.5, 0.5],
+  "shift_XY":               [-30, -30],
+  "angle":                  0
+}
